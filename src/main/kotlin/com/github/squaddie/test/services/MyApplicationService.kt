@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.squaddie.test.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.squaddie.test.MyBundle
 
 class MyApplicationService {
 
